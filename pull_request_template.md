@@ -36,5 +36,3 @@ Requires updating AWS test data for the following repositories:
 - [ ] ioda
 - [ ] ...
 
-Note: to automatically run saber, ioda and ufo tests with this PR, push a commit containing "trigger pipeline", e.g.:
-git commit --allow-empty -m 'trigger pipeline'
